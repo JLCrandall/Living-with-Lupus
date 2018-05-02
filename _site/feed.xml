@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-02T10:45:34-05:00</updated><id>http://localhost:4000/</id><title type="html">Living Life and Leaving Lupus Behind</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>Living Life and Leaving Lupus Behind</name></author><entry><title type="html">High Sierra Trail Trip Plan</title><link href="http://localhost:4000/Trip-Planning/" rel="alternate" type="text/html" title="High Sierra Trail Trip Plan" /><published>2018-03-01T04:32:20-06:00</published><updated>2018-03-01T04:32:20-06:00</updated><id>http://localhost:4000/Trip-Planning</id><content type="html" xml:base="http://localhost:4000/Trip-Planning/">&lt;!-- Table of Contents --&gt;
+&lt;h1 id=&quot;trip-planning&quot;&gt;&lt;a name=&quot;top&quot;&gt;Trip Planning&lt;/a&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#planchallenges&quot;&gt;Planning Challenges&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#permits&quot;&gt;Permits&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#transportation&quot;&gt;Transportation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#route&quot;&gt;Route&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to the Top&lt;/a&gt;&lt;/p&gt;</content><author><name>Jason Crandall</name></author><category term="Planning" /><category term="Sierra Nevadas" /><category term="Through Hike" /><summary type="html">Trip Planning</summary></entry><entry><title type="html">High Sierra Trail Safety</title><link href="http://localhost:4000/Safety-for-High-Sierra-Trail/" rel="alternate" type="text/html" title="High Sierra Trail Safety" /><published>2018-02-15T04:32:20-06:00</published><updated>2018-02-15T04:32:20-06:00</updated><id>http://localhost:4000/Safety-for-High-Sierra-Trail</id><content type="html" xml:base="http://localhost:4000/Safety-for-High-Sierra-Trail/">&lt;h1 id=&quot;safety&quot;&gt;&lt;a name=&quot;top&quot;&gt;Safety&lt;/a&gt;&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#emergency&quot;&gt;Emergency Contact Info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#GPS&quot;&gt;GPS Tracking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#animals&quot;&gt;Animal Safety&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#Bears&quot;&gt;Bears&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cougars&quot;&gt;Cougars&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ticks&quot;&gt;Ticks&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#WaterCrossing&quot;&gt;Water Crossing on the Trail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ams&quot;&gt;Altitude Sickness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hypothermia&quot;&gt;Hypothermia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lightning&quot;&gt;Lightning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hwd&quot;&gt;Human Waste Disposal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tandf&quot;&gt;Trips and Falls&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;emergency-info-and-numbers&quot;&gt;&lt;a name=&quot;emergency&quot;&gt;Emergency Info and Numbers&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;24-Hour Park Emergency Dispatch Center (559) 565 – 3194 – only to be used if more than 24 hours overdue from check-in&lt;/li&gt;
+  &lt;li&gt;Inyo County Sheriff’s Office (760) 878 – 0383 – the last day or two of the trip and again only to be used if more than 24 hours overdue from check-in&lt;/li&gt;
+  &lt;li&gt;Tulare County Sheriff’s Office (559) 802 – 9400 – the first portion of the trip and same as the others only to be contacted if more than 24 hours overdue from check-in&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;*Change phone lock screen to contain personal information and emergency contact info also have a paper version&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;gps-tracking&quot;&gt;&lt;a name=&quot;GPS&quot;&gt;GPS Tracking&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;There are many GPS trackers on the market, one that “does it all” to give both the hiker peace of mind as well as the friends and family is the &lt;a href=&quot;https://buy.garmin.com/en-US/US/p/561269&quot; target=&quot;_blank&quot;&gt;Garmin InReach Explorer+ ©&lt;/a&gt;. This unit is overkill for some people who already have a GPS unit as it not only tracks and sends movements to a website friends and family can view, but it enables the hikers to load their maps and waypoints to ensure they are staying on the trail. There are alternatives without these features that are purely an SOS button without the ability for 2-way communication. The downside to the unit aside from the upfront cost is that it does have a subscription based on how you plan to use it, the pricing (as of February 2018) is shown in the picture below. A less expensive option that is still available from some online stores (such as Amazon) is the &lt;a href=&quot;https://smile.amazon.com/dp/B00I6EY01C/_encoding=UTF8?coliid=I28ZEURI29K8A9&amp;amp;colid=N8JSDDPXND7T&amp;amp;psc=1&quot; target=&quot;_blank&quot;&gt;DeLorme InReach Explorer 2&lt;/a&gt;. This is the original product from DeLorme that Garmin bought out and began reproducing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/garmin-pricing.jpg&quot; alt=&quot;Garmin GPS Subscription Pricing&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;animal-safety&quot;&gt;&lt;a name=&quot;animals&quot;&gt;Animal Safety&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;bears&quot;&gt;&lt;a name=&quot;Bears&quot;&gt;Bears&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Black Bears (while physically they may be a variety of colors) are the only species in the park. They tend to leave people and camps well enough alone if food is properly secured and off the ground when possible. If encountered or one enters the camp area make noise (banging pots and pans, yelling, etc.) be bold, but with good judgement. If a bear does get your food do not try to get it back. Store anything that has odor (soap, sunscreen, toothpaste, trash, etc.) the same way you store food. It is best to limit food that is carried in pockets, and whenever you stop transfer it to the bear container and/or hang it.&lt;/p&gt;
+
+&lt;h3 id=&quot;cougars&quot;&gt;&lt;a name=&quot;cougars&quot;&gt;Cougars&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;DO NOT RUN! Get as big as possible and stay confident, convince them you are not prey. Hold your ground and back away slowly while facing the lion, if for any reason the mountain lion shows aggression wave your hands, shout, and throw stones/sticks at it, if attacked DO fight back. Report any sightings to park rangers.&lt;/p&gt;
+
+&lt;h3 id=&quot;ticks&quot;&gt;&lt;a name=&quot;ticks&quot;&gt;Ticks&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Wear light colored pants and long-sleeved shirts, tuck pant legs into boots or socks and tuck shirts into pants. Apply repellents (some work for ticks and mosquitos) when on trails and hiking. Periodically check entire body including hairline and pits. Continue to watch for ticks up to three days after the hiking. If one latches on use fine-tipped tweezers to grasp the tick as close to the skin as possible and pull up evenly. Soak the bite with some rubbing alcohol, a salt scrub, or soap and water. Do not crush a tick with your fingers.&lt;/p&gt;
+
+&lt;h3 id=&quot;water-crossing-on-the-trail&quot;&gt;&lt;a name=&quot;WaterCrossing&quot;&gt;Water Crossing on the Trail&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Never underestimate the power of moving water. When crossing look for natural brides such as logs and rocks when a man-made one is not present. Do not cross above rapids or gorges. Unbuckle your pack’s waste strap, face upstream and use a stick or hiking pole for stability and feeling the bottom topography when you cannot see it. Wearing shoes is safer than crossing barefoot. Cross when the water level is at its lowest (usually the morning) if you can choose the times, and when in a group hold onto each other when crossing, but do not tie yourselves together.&lt;/p&gt;
+
+&lt;h3 id=&quot;altitude-sickness&quot;&gt;&lt;a name=&quot;ams&quot;&gt;Altitude Sickness&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Often treatable with aspirin, acetaminophen, or ibuprofen, and just stopping to rest. Another medical aid that can help is Diamox, but it requires a prescription so check with your doctor prior to the trip if you have any issues with the other medicinal options. Do not let conditions get worse, it can result in confusion, loss of coordination and balance, and in severe cases loss of consciousness and the only cure is to descend to a lower altitude. To help reduce the chance of altitude sickness and related issues try to stick to the following:
+Overhydrate the day before the trip begins and avoid any alcohol a few days prior
+Light exercise the day before the hike, it gets blood flowing and oxygenation more efficient
+Hike nearby mountains and hills a day or two before the main hike
+Eat even if you aren’t hungry (during the hike), the altitude can hinder your appetite and an empty stomach can make the symptoms worse.&lt;/p&gt;
+
+&lt;h3 id=&quot;hypothermia&quot;&gt;&lt;a name=&quot;hypothermia&quot;&gt;Hypothermia&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Wool and synthetic clothing provides safer warmth than cotton. The moniker is cotton kills because of its absorption ability keeping moisture on and close to your body reducing its insulating ability. Mild cases can quickly get worse, so believe the symptoms not the victim and stop to get out of wind or rain and warm as quickly as possible (in a sleeping bag and extra clothing). Provide external sources of warmth such as warm drinks, hot water bottles, and your own body heat. Finally, keep them awake and do not let them sleep as your body slows when sleeping and can make the situation worse.&lt;/p&gt;
+
+&lt;h3 id=&quot;lightning&quot;&gt;&lt;a name=&quot;lightning&quot;&gt;Lightning&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Watch for approaching storms, especially when nearing the peak of Whitney, do NOT stay at the top if there is any sign of a storm, but if you get caught seek shelter in the stone “house.” If you are caught in a storm without trees near you lay out something insulating (foam sleeping pad) on the ground to sit on.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-waste-disposal&quot;&gt;&lt;a name=&quot;hwd&quot;&gt;Human-Waste Disposal&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Not all sections of the park require you to pack out your bowel movements, only once above the tree-line (guitar lake to the Whitney peak and down the other side). Bury any feces at least 6 inches deep and 100 feet from any water sources, trails, or campsites. Carry out used toilet paper and store in a double zip-lock bags to prevent odors from attracting animals.&lt;/p&gt;
+
+&lt;h3 id=&quot;tripsfalls-&quot;&gt;&lt;a name=&quot;tandf&quot;&gt;Trips/Falls &lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Daily stretching helps reduce the risk of injury, especially when sore and tired from a tough day hiking. If you do twist and ankle or start to fall do not try to fight the gravity, tensing up can and usually does make the injury worse. Rest and since ice probably limited cold water/creek is good and keep it elevated. Use hiking poles to reduce the risk and assist with bracing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to the Top&lt;/a&gt;&lt;/p&gt;</content><author><name>Jason Crandall</name></author><category term="Safety" /><category term="Sierra Nevada’s" /><category term="Through Hike" /><summary type="html">Safety Emergency Contact Info GPS Tracking Animal Safety Bears Cougars Ticks Water Crossing on the Trail Altitude Sickness Hypothermia Lightning Human Waste Disposal Trips and Falls</summary></entry><entry><title type="html">Getting the Whitney Bug</title><link href="http://localhost:4000/Getting-the-Whitney-bug/" rel="alternate" type="text/html" title="Getting the Whitney Bug" /><published>2018-01-30T04:32:20-06:00</published><updated>2018-01-30T04:32:20-06:00</updated><id>http://localhost:4000/Getting-the-Whitney-bug</id><content type="html" xml:base="http://localhost:4000/Getting-the-Whitney-bug/">&lt;p&gt;As a milestone birthday approached, my beautiful and wonderful wife asked what I wanted to do to celebrate. With it being a “milestone”, she said we should do something a bit bigger than a normal birthday. We discussed going several places or taking a cruise or doing something along those lines. Then she asked if I wanted to spend some time with my family in California since it had been a while since we have had a visit with them, or if I wanted to get away from the business of life and go hiking.&lt;/p&gt;
+
+&lt;p&gt;As many people who know me can attest I love my family dearly and I love getting away from the chaos and speed of the daily life. So obviously she sparked my interest with those and I spoke up saying so, which helped us narrow it down… slightly… we eliminated a trip somewhere busy and took a cruise off the table for a little while. The cruise was not completely removed purely because of the potential for an Alaskan cruise. Though whenever we mention that there is the somewhat honest response of “we can’t, or we may never return” because of the sheer majesty we have seen in any pictures and videos from Alaska.&lt;/p&gt;
+
+&lt;p&gt;Anyway, back to our decision, with the idea of a bigger trip and going to see my family while still getting “off grid” a while she mentioned a backpacking trip. When going through the list of options she mentioned Mount Whitney, somewhere we have both talked about wanting to go (for me it is going again). This idea really hit home, and I loved it for so many reasons.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;It gets us out of doors a while and its physically demanding which can help clear away any residual “city” that we feel clinging to us.&lt;/li&gt;
+  &lt;li&gt;It forces us to get in better shape with some good ‘ole diet and exercise.&lt;/li&gt;
+  &lt;li&gt;It has the obvious sense of accomplishment for hiking to the highest point in the 48 contiguous states when dealing with an auto-immune disease.&lt;/li&gt;
+  &lt;li&gt;More than just dealing with an auto-immune disease, one that had stripped all the muscles from Megan’s legs to where I had literally carried her up a small mountain when I proposed to her in California.&lt;/li&gt;
+  &lt;li&gt;Plus, who doesn’t love the natural beauty of the Sequoia’s and Sierra Nevada mountains I mean look at this picture of Whitney!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/Whitney-from-Portal.jpg&quot; alt=&quot;Mount Whitney from Whitney Portal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With the idea and desire for the trip it left us the big task of planning such an adventurous trip. It is by far the largest trip we have been on together and is the biggest excursion I have done even with my scouting career in the past. We were hooked by the prospect though and felt a connection to John Muir with what he says about nature.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Keep close to Nature’s heart… and break clear away, once in a while, and climb a mountain or spend a week in the woods. Wash your spirit clean.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, what was left was the planning and figuring out what we don’t have and what we do need! Plus, the minor detail of getting into shape where hiking 72 miles in elevation didn’t sound like it would defeat us. With Megan in school I took some evening and perhaps some time at work (don’t tell them that) to plan out the rough outline for the trip. Well one thing led to another and I was beyond hooked for the plan, so my “outline” became a bit more like a comprehensive guide. It started off with selecting the route to the peak which as you can tell we decided on fairly quickly to be the High Sierra Trail approach. It is longer than going from Whitney Portal and a more gradual ascent, while being much shorter than taking the Pacific Crest Trail (PCT) or John Muir Trail to the peak.&lt;/p&gt;
+
+&lt;p&gt;With the route roughly in mind though I realized the hardest people to sell the plan to was going to be our family so my step 2 became clearer… finding out the dangers of the area and how to deal with them. Alongside with the emergency contact information for the zones we would be in.&lt;/p&gt;</content><author><name>Jason Crandall</name></author><category term="Mountains" /><category term="Whitney" /><category term="Freedom" /><summary type="html">As a milestone birthday approached, my beautiful and wonderful wife asked what I wanted to do to celebrate. With it being a “milestone”, she said we should do something a bit bigger than a normal birthday. We discussed going several places or taking a cruise or doing something along those lines. Then she asked if I wanted to spend some time with my family in California since it had been a while since we have had a visit with them, or if I wanted to get away from the business of life and go hiking.</summary></entry></feed>
