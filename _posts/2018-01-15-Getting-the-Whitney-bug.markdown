@@ -3,7 +3,7 @@ layout: post
 title:  Getting the Whitney Bug
 date:   2018-01-30 13:32:20 +0300
 description: Planning to summit Mount Whitney in epic fashion while doing our best to keep life from interfering.
-img: Whitney-from-portal.jpg # Add image post (optional)
+img: Whitney-from-Portal.jpg # Add image post (optional)
 tags: [Mountains, Whitney, Freedom]
 author: Jason Crandall # Add name author (optional)
 ---
