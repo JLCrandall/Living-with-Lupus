@@ -3,7 +3,7 @@
     {
       "title"    : "High Sierra Trail Trip Plan",
       "category" : "",
-      "tags"     : "Planning, Sierra Nevadas, Through Hike",
+      "tags"     : "Planning, Sierra Nevadas, Thru-hike",
       "url"      : "/Trip-Planning/",
       "date"     : "2018-03-01 04:32:20 -0600"
     } ,
@@ -11,7 +11,7 @@
     {
       "title"    : "High Sierra Trail Safety",
       "category" : "",
-      "tags"     : "Safety, Sierra Nevada’s, Through Hike",
+      "tags"     : "Safety, Sierra Nevada’s, Thru-hike",
       "url"      : "/Safety-for-High-Sierra-Trail/",
       "date"     : "2018-02-15 04:32:20 -0600"
     } ,
@@ -21,6 +21,14 @@
       "category" : "",
       "tags"     : "Mountains, Whitney, Freedom",
       "url"      : "/Getting-the-Whitney-bug/",
+      "date"     : "2018-01-30 04:32:20 -0600"
+    } ,
+  
+    {
+      "title"    : "Who we are and what we do",
+      "category" : "",
+      "tags"     : "Nature, About Us, Freedom, Escape",
+      "url"      : "/Who-we-are/",
       "date"     : "2018-01-30 04:32:20 -0600"
     } 
   

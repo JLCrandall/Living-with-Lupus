@@ -4,7 +4,7 @@ title:  High Sierra Trail Safety
 date:   2018-02-15 13:32:20 +0300
 description: Part of planning for the High Sierra Trail and the safety aspects to know. # Add post description (optional)
 img: safety-first.jpg # Add image post (optional)
-tags: [Safety, Sierra Nevada’s, Through Hike]
+tags: [Safety, Sierra Nevada’s, Thru-hike]
 author: Jason Crandall # Add name author (optional)
 ---
 # <a name="top">Safety</a>

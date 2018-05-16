@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Living Life and Leaving Lupus Behind # add your name or title, this will be displayed at the top
 author-pic: J-M-profile.jpg # add your photo
-about-author: Our names are Jason and Megan Crandall, we both have a traiditional job but prefer to spend any time we can out in nature. We currently live in Texas which limits the out door seasons when one of you is living with lupus. Managing the symptoms and living life to the max is not always eaasy, but it is  something that can definitely be done. 
+about-author: We are Jason and Megan Crandall, we both have traditional jobs but prefer to spend any time we can out in nature. We currently live in sunny Texas which limits our local excursions when one of you is living with lupus. Managing the symptoms and living life to the max is not always easy, but it is  something that can definitely be done. 
 
 # Contact links
 email: Jason.L.Crandall@gmail.com # Add your Email address
@@ -25,10 +25,10 @@ instagram: n/a # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
+# mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+# discus_identifier: mr-brown # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics

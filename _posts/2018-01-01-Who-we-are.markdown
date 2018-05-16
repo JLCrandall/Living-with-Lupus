@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Who we are and what we do
+date:   2018-01-30 13:32:20 +0300
+description: A little bit about us and how we try to support our addiction to life.
+img: profile2.jpg # Add image post (optional)
+tags: [Nature, About Us, Freedom, Escape]
+author: Jason Crandall # Add name author (optional)
+---
+# Who we are and what we do
+
+## A bit about us
+We are a husband and wife duo who have a love, respect, and addiction to nature. We (as so many do) get grouchy and testy when we are cooped up inside for too long and we are unable to get our “fix” of wilderness. In this digitally dictated and depressed world we find the best way for us to combat the frivolous fears and frustration everyone focuses on is to remove ourselves. It sounds so simple and borderline ridiculous, especially to some of our family and friends who it just “doesn’t make sense” to. They wonder (and ask) how we can up and leave on a moment’s notice and stay out as long as possible without worrying about what could go wrong or what we aren’t doing. And it equally doesn’t make sense to them when we try to explain that for us it is inverted. We fear and worry when we can’t get away or escape to recharge our systems. 
+
+Many people refer to day-to-day life as a rat race which sometimes seems pretty accurate. We are left running around always in a hurry and free time is spent scrolling through our plugged-in lives. In this environment more and more people seem (from our perspective) to be impacted by and afflicted with diseases. We both deal with, although for one of us it is secondhand, with Lupus. This autoimmune disease essentially makes you allergic to the sun among other things, which can definitely make camping a challenge. Here in Texas we are limited on when we can go due to the high sun intensity and just high heat. Though the lupus can be managed enough to get out and enjoy nature year-round here, it does take a more work and care when it’s the summer.
+
+We are both quite fair skinned as the picture above shows, and therefore we do our best to keep covered basically from head to toe all the time. This is especially important when the sun is at its highest and during the summer. It is often times hard to keep covered in the summer and we are constantly trying new things to help whether it is a new brand of clothing or a product to help keep us cool. One thing we ensure during the summer is that we don’t overnight somewhere without a water source we can jump into!
+
+![Jason and Trooper at McKinney Falls]({{site.baseurl}}/assets/img/troopMckinney.jpg)
+
+## What we do
+We do our best to live comfortably in this world with ever increasing costs and support a habit that can be fairly expensive. A cost estimate for a thru-hike of the Appalachian Trail (AT) is about $1000 a month, or $1.50 a mile (according to the [Appalachian Trail Conservancy](https://www.outdoors.org/conservation/trails/appalachian-trail-faq){:target=”_blank”} ), and that cost does not include gear. Now that is for doing a solid 3 months of travel instead of spreading out sporadically, but it is still expensive when considering you most likely are not making any money after you exhaust your paid time off (PTO). 
+
+We both work a pretty standard office job as our “9 to 5.” That is our primary source of income and savings, however we attempt to do a bit of everything. We do little side odd jobs, we teach Sunday school at church, we baby sit for family members (and often times co-mingle babysitting with day hikes/trips). Eventually we would both like to have an alternative source of income to fuel adventures and excursions or have a non-traditional job that can be done remotely. Though we have often discussed a teaching route so that at least our summers will be fairly open for longer trips. 

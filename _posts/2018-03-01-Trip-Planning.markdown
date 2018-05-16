@@ -4,7 +4,7 @@ title:  High Sierra Trail Trip Plan
 date:   2018-03-01 13:32:20 +0300
 description: Part of planning for the High Sierra Trail and the route.
 img: post-1.jpg # Add image post (optional)
-tags: [Planning, Sierra Nevadas, Through Hike]
+tags: [Planning, Sierra Nevadas, Thru-hike]
 author: Jason Crandall # Add name author (optional)
 ---
 <!-- Table of Contents -->
