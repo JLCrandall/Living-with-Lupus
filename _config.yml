@@ -1,5 +1,5 @@
 title: Living Life and Leaving Lupus Behind
-email: your-email@domain.com
+email: jason.l.crandall@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,20 +15,20 @@ about-author: We are Jason and Megan Crandall, we both have traditional jobs but
 
 # Contact links
 email: Jason.L.Crandall@gmail.com # Add your Email address
-phone: # Add your Phone number
+# phone: # Add your Phone number
 website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
+# linkedin: # Add your Linkedin handle
 github: JCrandall # Add your Github handle
-twitter: n/a # Add your Twitter handle
-facebook: n/a # Add your Facebook handle
-instagram: n/a # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+# twitter: n/a # Add your Twitter handle
+# facebook: n/a # Add your Facebook handle
+# instagram: n/a # Add your Instagram handle
+# pinterest: # Add your Pinterest handle
 
 # Newsletter
 # mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-# discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: Jason # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
